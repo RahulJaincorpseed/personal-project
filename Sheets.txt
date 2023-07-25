@@ -1,0 +1,84 @@
++++++++++++++++++++
+
+Name: @@ Daily Report 2023
+
+Notes: only 10 work are in a sheet.
+
+@ work Details
+@ status -> pending, completed
+
+
++++++++++++++++++++
+
+
++++++++++++++++++++
+
+Name : @@ All Credential 2023
+
+@ Name of the App
+@ Email of the App
+@ Mobile Number of App
+@ Password of the App
+@ other things with key value like (Aadhar: 36572836786776 )
+
+@@Accounts
+
+1) Github
+2) HackerRank
+3) Leetcode
+4) GeeksforGeeks
+5) Gmail
+6) Instagram
+7) SnapChat
+8) phonepe
+9) paytm
+10) Amazon
+11) What's App
+12) Facebook
+13) Twitter
+14) skype
+15) 
+
++++++++++++++++++++
+
+
+
++++++++++++++++++++
+
+Name : @@ Frontend 2023
+
+
++++++++++++++++++++
+
+
+
++++++++++++++++++++
+
+Name: @@ Secured personal Data 2023
+
+file with Lock
+
+
++++++++++++++++++++
+
+
+
++++++++++++++++++++
+
+Name: @@ Room Items
+
+1) Permanent Items
+@ Name
+
+
+2) Variable Items
+@ Name
+@ Quantity
+
+
+3) Item Requirement 
+@ Name
+@ quantity or price by home 
+
+
++++++++++++++++++++
