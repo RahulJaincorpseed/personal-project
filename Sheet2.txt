@@ -1,0 +1,68 @@
++++++++++++++++++++++++
+
+@@ Money 2023
+
+1) CashBack
+Ammount 
+
+2) Daily Money Box
+Date:
+Money:
+Status:
+
+3) Home Money Return
+Item
+Ammount
+
++++++++++++++++++++++++
+
+
++++++++++++++++++++++++
+
+@@ Important Links 2023
+
+1) Social Links
+Name of the App
+Link of the Social Account
+
+2) Frontend UseFull Webiste Link
+Website Name
+Website Link
+
+3) Github Links
+Name of the Report
+Link of the Repo
+
+4) Online Certificate
+Name of the company or Website
+Name of the Certificate
+Link of the Certificate
+
++++++++++++++++++++++++
+
+
++++++++++++++++++++++++
+
+@@ All Documents Data 2023
+
+1) Aadhar card 
+2) pencard 
+3) Bank Accounts
+4) Experience Letter
+5) Marksheet 10th 12th
+6) BTech Marksheet with degree 
+
++++++++++++++++++++++++
+
+
++++++++++++++++++++++++
+
+@@ Profile All details 2023
+
+1) Personal Profile All Data
+Name, age, mobile, email, Education, degree etc
+
+2) Professional
+Name, age, Mobile Email, Headline etc
+
++++++++++++++++++++++++
