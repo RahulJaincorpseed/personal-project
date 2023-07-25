@@ -1,0 +1,54 @@
+++++++++++++++
+
+1) Difference Between Let var Const 
+2) Hoisting in JAVASCRIPT
+3) Function in JAVASCRIPT
+4) Array with All Methods
+5) Object with all Methods
+6) String With All Methods
+7) Map, filter, Reduce with Real world Example
+8) JS Date and Time all Methods
+9) Callback, EventLoop
+10) ES6 concept 
+    1) Arrow Function
+    2) Rest and Spread 
+    3) Map
+    4) SET
+    5) Promise
+    6) Async Await
+
+++++++++++++
+
+++++++++++++
+
+1) Api Types Of Request 
+Like => GET, POST, PUT, DELETE, PATCH
+
+2) need to learn all status code 
+3) AJAX Call
+4) Authentication
+5) Autharization
+6) JSON (convert Json to string and String to Json)
+
+
+++++++++++++
+
+
+
++++++++++++++++
+
+1) API GET Request
+2) API POST Request
+3) API PUT Request
+4) API DELETE Request
+
+Third Party Api Integration
+JSON Web Token
+
+
+
+++++++++++++++++
+
+
+
+
