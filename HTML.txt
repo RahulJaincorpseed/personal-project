@@ -1,0 +1,26 @@
++++++++++++++++
+
+1) heading, paragraph
+2) Images, videos
+3) input types Important
+4) canvas
+5) Tables 
+
+++++++++++++++
+
++++++++++++++
+
+For Practice 
+1) Login Form
+2) Table With data
+3) Simple shooping Page with images and videos
+4) complete a portfolio Design 
+
+
++++++++++++++
+
++++++++++++++
+
+1) Learn Emit for Fast Development 
+
+++++++++++++
