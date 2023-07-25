@@ -1,6 +1,6 @@
 +++++++++++++++++++++++
 
-@@ Money 2023
+Name : @@ Money 2023
 
 1) CashBack
 Ammount 
@@ -19,7 +19,7 @@ Ammount
 
 +++++++++++++++++++++++
 
-@@ Important Links 2023
+Name : @@ Important Links 2023
 
 1) Social Links
 Name of the App
@@ -43,7 +43,7 @@ Link of the Certificate
 
 +++++++++++++++++++++++
 
-@@ All Documents Data 2023
+Name : @@ All Documents Data 2023
 
 1) Aadhar card 
 2) pencard 
@@ -57,7 +57,7 @@ Link of the Certificate
 
 +++++++++++++++++++++++
 
-@@ Profile All details 2023
+Name : @@ Profile All details 2023
 
 1) Personal Profile All Data
 Name, age, mobile, email, Education, degree etc

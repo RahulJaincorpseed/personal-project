@@ -37,7 +37,10 @@ Name : @@ All Credential 2023
 12) Facebook
 13) Twitter
 14) skype
-15) 
+15) Canva
+16) GreatLearning
+17) Udemy
+18) 
 
 +++++++++++++++++++
 
