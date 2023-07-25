@@ -1,0 +1,24 @@
+++++++++++++++++++
+
+@ Youtube Logo
+@ Youtube Channel Art
+@ Channel Name
+@ channel Description
+@ Channel Tags
+@ social Media Links
+
++++++++++++++++
+
++++++++++++++++
+
+@ Youtube Titles minimum 10 and maximum 20
+@ Youtube Description minimum 10 and maximum 20
+@ Youtube Tags minimum 10 and maximum 20
+@ Youtube Thumbnail
+@ youtube cards
+@ Youtube EndScreens
+
++++++++++++++++
+
+
+
