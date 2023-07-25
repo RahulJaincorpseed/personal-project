@@ -1,0 +1,58 @@
++++++++++++
+
+@ profile Picture
+@ First Name
+@ Last Name
+@ Headline
+@ Website
+@ Country
+@ Phone Number
+
+
+@ Linkedin Url
+
+@ Link Socials
+ => Github
+ => Facebook
+
+ About Yourself 
+
+ Experience 
+ Education
+
+ Resume Upload
+
+ +++++++++  +++
+    Advantages
+
+    Verified Skills
+    Badge 
+
+ +++++++++++++
+
+
+
+++++++++++++
+
+@ Certificate
+
+CSS BASICS
+CSS ADVANCED
+JAVASCRIPT BASICS
+JAVASCRIPT INTERMIDIATE
+NODEJS BASICS (OPTIONAL)
+NODEJS INTERMIDIATE (OPTIONAL)
+REACTJS BASICS
+REST API INTERMIDIATE
+SQL BASICS
+SQL INTERMIDIATE
+SQL ADVANCED
+
+
+
+
+
+++++++++++++
+
+
++++++++++++
