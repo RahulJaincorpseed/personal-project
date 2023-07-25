@@ -1,0 +1,29 @@
+++++++++++++++++
+
+@ FirstName
+@ Lastname
+@ Pronouns
+@ Headline
+@ Industry
+@ Education 
+@ Location 
+@ City 
+@ Birthdate
+@ Address Phone Number
+@ Add Website Or Portfolio
+@ Write a Summary
+
+
++++++++++++++++
+
+
+++++++++++++
+
+@@ Important
+
+@ Experience
+@ Education
+@ Certification
+@ Skills
+
++++++++++++
