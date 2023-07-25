@@ -1,0 +1,28 @@
+++++++++++++++++
+
+1) color, background, font, typography
+2) Flex Important
+3) Grid Important
+4) CSS Positions Important
+5) CSS Animation
+6) Box Model (border, margin, padding, outline)
+7) CSS Accordian Practice
+8) Navabr Practice
+9) DashBoard Practice
+10) Max, Min width and Height
+11) CSS Selector (variety of Range are present you have only some selector knowledge)
+12) CSS Selector Specificity ( Important )
+13) !important Keyword where we use and (Avoid !important for Better Code)
+
+++++++++++++++++
+
++++++++++++++
+
+1) Build a Good Portfolio with Animation
+2) Simple form Design
+3) Product Page Design
+4) Complex design Practice for clear Your CSS Position Property 
+5) clearly understand where we use Grid or Flex 
+6) convert Design Into Mind then code not started code Immediatly
+7) So then if you think the design in Mind Then you feel you are Easily convert any Design
++++++++++++++
