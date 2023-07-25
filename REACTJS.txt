@@ -1,0 +1,50 @@
++++++++++++++
+
+1) ReactJS BASICS
+2) All ReactHOOKS
+3) Redux
+4) ContextApi
+5) JSX
+6) BABEL
+7) APi Calling 
+8) Momorize ReactHOOKS
+9) Debauncing in ReactJS
+10) React Routing
+
+
++++++++++++++
+
++++++++++++++
+
+1) How to Display Data in ReactJS
+2) React Router Dom with navLink, Links, etc
+3) How to naviage a user to Another Page
+4) Axios Api Calling
+5) How to add Pagination in ReactJS
+6) How to Add a (User, company etc ) through Api
+7) How to Update a (User, company etc ) through Api
+8) How to delete a (User, company etc ) through Api
+9) How to Read a (User, company etc ) through Api
+10) Create Custm ReactHOOKS
+
+++++++++++++++++++++
+* Notes : Learn how to flow data by function to another function
+* Notes : Learn how to flow data by component to another component
+++++++++++++++++++++
+
+++++++++++++++++++
+Advanced concept
+
+1) User Authentication
+2) user Autherization
+3) Chat Functionality
+4) Social Api Integration
+5) Google Auth Integration
+6) Protected Routes
+7) All Api fetch Data
+8) Manage the Flow of Data Important
+
++++++++++++++++++
+
+
++++++++++++++
