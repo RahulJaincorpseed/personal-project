@@ -1,0 +1,39 @@
+++++++++++++++++
+
+Profile: 
+@ Name
+@ Profile Picture
+
+@ gender
+@ Location
+@ Birthday
+@ Summary 
+@ Website or Portfolio 
+@ Github
+@ Linkedin
+@ Twitter 
+
++++++++
+
+@ Work Experience
+@ Education
+@ Technical skills
+
+
+++++++++++++++++
+
++++++++++++++++
+
+Social Account Connect
+
+1) Linkedin
+2) Google
+3) Github
+4) Facebook
+
+
+++++++++++
+
+1) Leetcode Store
+
++++++++++++++++
