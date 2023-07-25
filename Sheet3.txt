@@ -2,10 +2,23 @@
  
 Name: @@ Youtube Data 2023
 
-1) Youtube Long Videos
+1) P Youtube Long Videos
 
 
-2) Youtube Short Videos
+2) P Youtube Short Videos
+
+
+3) C Youtube Long Videos
+
+
+4) C Youtube Short Videos
+
+
+5) Social media Progress Videos
+
+
+6) Social media completed Videos
+
 
 
 +++++++++++++++++++++
@@ -14,7 +27,35 @@ Name: @@ Youtube Data 2023
  
 Name: @@ Youtube Common Data 2023
 
+1) Youtube Long Videos 
+=> Title
+=> Description
+=> Tags 
 
 
+2) Youtube Short Videos 
+=> Title
+=> Description
+=> Tags 
+
+
+3) All Social Media Videos
+
+Name of the Videos
+=> Title 
+=> Tags
+=> Description
+=> Hashtags
 
 +++++++++++++++++++++
+
+
+++++++++++++++++++++++
+
+
+
+
+
+
+
+++++++++++++++++++++++
