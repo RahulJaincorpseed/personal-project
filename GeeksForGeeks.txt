@@ -1,0 +1,58 @@
+// Basic Details 
+
+@ Profile name
+@ Profile Picture
+@ Email ID
+@ User Type (Student, Working Professional etc)
+@ Company Name Designation Start Date  etc info and add another comapny data
+
+
+@are you freelencer
+@ portfolio Link
+@ Duration 
+@ Total Work Experience
+@ Notice Period
+@ Willing to Relocated
+@ Current Salary 
+@ Expected Salary 
+
+
+@ contact Number 
+@ profile Heading
+@ Technical Skills
+@ Upload Resume
+@ social Profile (Github and linkedin) 
+@ short Bio
+@ Gender 
+
+
+@place Default code
+
+
+
+++++++++++++++++++
+
+@@ write Article Advantages
+
+@@ POTD
+
+@@ Problems 
+
+@@ GFG JOBS 
+
++++++++++++++++++++++
+
+
+
++++++++++++++
+
+HTML
+CSS
+JAVASCRIPT
+REACTJS
+SYSTEM DESIGN BASICS
+SQL
+NODEJS
+
+
++++++++++
